@@ -1,0 +1,8 @@
+{
+  "name": "@gerzhan/awesome",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/gerzhan/Awesome.git",
+  "author": "Gerzhan <nikolay.gerzhan@gmail.com>",
+  "license": "MIT"
+}
