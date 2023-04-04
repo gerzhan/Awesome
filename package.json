@@ -3,6 +3,13 @@
   "version": "0.0.1",
   "main": "index.js",
   "repository": "https://github.com/gerzhan/Awesome.git",
-  "author": "Gerzhan <nikolay.gerzhan@gmail.com>",
-  "license": "MIT"
+  "author": "Gerzhan Nikolay <nikolay.gerzhan@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn run docs",
+    "docs": "docsify serve ./docs -p 4233"
+  },
+  "dependencies": {
+    "docsify-cli": "^4.4.4"
+  }
 }
