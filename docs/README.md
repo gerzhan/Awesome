@@ -1,5 +1,7 @@
 # Gerzhan Awesome
 
+> `I can! I want! I do!`
+
 [github.com/gerzhan/Awesome](https://github.com/gerzhan/Awesome)
 
 ```plantuml
